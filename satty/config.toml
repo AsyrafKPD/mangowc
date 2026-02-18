@@ -1,0 +1,7 @@
+[general]
+
+early-exit = true 
+disable-notifications = true
+copy-command = "wl-copy"
+# Or with timestamp pattern
+output-filename = "~/Pictures/screenshots/screenshot-%Y%m%d-%H%M%S.png"
